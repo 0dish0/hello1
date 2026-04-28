@@ -7,7 +7,8 @@ public class Result {
 		else if (m<40) 
 				return "fail";
 		else 
-				return "pass";}
+				return "pass";
+		}
 		
 			public static void main(String [] args) {
 				System.out.println(Display (55));
